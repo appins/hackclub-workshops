@@ -34,7 +34,11 @@ a picture, or any other html element
 In JavaScript, variables and arrays can be useful to hold or set values. 
 Today we will learn about how to use these to create interactive web pages.
 
+Variables can be set, read, or changed quickly.
+
 To declare a variable, put word `var` in front of the variables name. 
+A variable can hold a single value. They can be changed to be different
+values, they can be read from, and they can hold many types of values.
 
 Example:
 ```js
