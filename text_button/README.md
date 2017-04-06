@@ -208,3 +208,6 @@ Now make it your own. Make something that counts through numbers. Make something
 chooses a random line, or even something that switches between different pictures.
 
 If you need some help with this project, ask me.
+
+one example would be a slideshow, this can be done by changing the `.href` property of an `<img>`
+the same way we changed the `.innerHTML` propterty of a `<p>` element.
